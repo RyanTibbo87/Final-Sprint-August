@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hockey Stick",
+      "price": 229.99,
+      "image": "/Images/stick.jpeg",
+      "description": "A flexible stick to get your puck handling at the top of the game."
+    },
+    {
+      "id": 2,
+      "name": "Hockey Skates",
+      "price": 199.99,
+      "image": "/Images/skates.jpeg",
+      "description": "Top tier skates to get you at your top speed."
+    },
+    {
+      "id": 3,
+      "name": "Hockey Puck",
+      "price": 9.99,
+      "image": "/Images/puck.jpeg",
+      "description": "A durable, round hockey puck to get the game started."
+    }
+  ]
+}
